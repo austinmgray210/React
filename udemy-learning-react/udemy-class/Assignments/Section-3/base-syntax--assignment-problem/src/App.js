@@ -30,46 +30,6 @@ class App extends Component {
 }
 
 
-//   state = {
-//     usernames: [
-//       { username: 'Austin Gray' }
-//     ]
-//   }
-//
-//   changeUsernameHandler = () => {
-//     this.setState({
-//       usernames: [
-//         { username: 'Gray' }
-//       ]
-//     })
-//   }
-//
-//   userTyped = (event) => {
-//     this.setState({
-//       usernames: [
-//         { username: event.target.value }
-//       ]
-//     })
-//
-//   }
-//
-//   render() {
-//     return (
-//       <div className="App">
-//         <UserOutput
-//             username={this.state.usernames[0].username}
-//             changeUser={this.changeUsernameHandler.bind('Gray')}
-//         />
-//         <UserInput
-//             changeUser={this.userTyped}
-//         />
-//       </div>
-//     );
-//   }
-// }
-
-
-
 export default App;
 
 
