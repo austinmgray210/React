@@ -29,10 +29,7 @@ class App extends Component {
   }
 }
 
-
 export default App;
-
-
 
 // TODO:
 //   Pass the event-handler method reference to the UserInput component and bind it to the input-change event
